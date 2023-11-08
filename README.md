@@ -1,0 +1,1 @@
+# deteksi-jari-tangan-dengan-opencv-python
