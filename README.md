@@ -15,7 +15,11 @@ Kode ini membaca video dari file dan untuk setiap frame dalam video, mencoba men
    ```bash
    pip install opencv-python
    ```
+3. Instal pustaka mediapipe:
 
+   ```bash
+   pip install mediapipe
+   ```
 ## Penggunaan
 
 1. Ganti `"video.mp4"` dengan path ke video yang ingin Anda analisis dalam file `deteksijari.py`.
