@@ -27,7 +27,7 @@ Kode ini membaca video dari file dan untuk setiap frame dalam video, mencoba men
 2. Jalankan skrip dengan perintah:
 
    ```bash
-   python deteksijari.py
+   python detekjari.py
    ```
 
 3. Jendela akan muncul dan menampilkan video dengan ujung telunjuk yang ditandai dengan titik merah.
