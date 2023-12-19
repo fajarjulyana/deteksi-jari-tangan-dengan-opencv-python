@@ -1,5 +1,5 @@
 # Deteksi Ujung Telunjuk dalam Citra Tangan
-
+<img src="capture/capture.gif">
 Proyek ini adalah contoh sederhana bagaimana Anda dapat mendeteksi dan menandai ujung telunjuk dalam citra tangan menggunakan Python dan OpenCV.
 
 ## Deskripsi
